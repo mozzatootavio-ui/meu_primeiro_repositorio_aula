@@ -1,0 +1,30 @@
+# 📷 O que é Visão Computacional? (E onde a usamos no dia a dia)
+
+A **Visão Computacional** é um ramo da Inteligência Artificial que permite aos computadores "enxergar" e extrair informações significativas de imagens, vídeos e do mundo real. Assim como o cérebro humano processa o que os olhos veem, a IA analisa pixels para identificar rostos, objetos e padrões.
+
+Aqui estão **4 aplicações práticas** que usamos no dia a dia sem nem perceber:
+
+---
+
+## 1. Desbloqueio Facial do Celular (Face ID) 📱🔓
+* **Como funciona:** Quando você olha para a tela, a câmera do seu smartphone captura milhares de pontos de infravermelho no seu rosto para criar um mapa 3D. A visão computacional analisa essas medidas e confirma se é realmente você em frações de segundo.
+
+## 2. Filtros e Efeitos de Redes Sociais (Instagram / TikTok) 🐶✨
+* **Como funciona:** Aplicativos de fotos mapeiam instantaneamente os traços do seu rosto (olhos, nariz, boca) usando algoritmos de detecção visual, permitindo colocar orelhas de cachorro, óculos virtuais ou alterar o fundo do vídeo em tempo real.
+
+## 3. Leitura de Placas e Estacionamentos Automáticos 🚗🅿️
+* **O que é:** Sistemas de segurança em rodovias (como o *Sem Parar*) e portões de shoppings utilizam câmeras combinadas com OCR (reconhecimento óptico de caracteres) para ler automaticamente a placa do seu carro e liberar a cancela sem precisar de ticket de papel.
+
+## 4. Ferramentas de Busca por Imagem (Google Lens) 🔍📸
+* **Como funciona:** Se você tira a foto de uma planta bonita ou de um tênis na rua, o Google Lens usa visão computacional para escanear a imagem, compará-la com bilhões de outras na internet e te dizer exatamente o que é e onde comprar.
+
+---
+
+### 📌 Resumo Rápido
+
+| Aplicação | Onde você usa? | O que a IA faz? |
+| :--- | :--- | :--- |
+| **Reconhecimento Facial** | Desbloqueio de celulares | Mapeia os traços do seu rosto em 3D |
+| **Filtros de Redes Sociais** | Instagram / TikTok | Rastreia feições para aplicar efeitos virtuais |
+| **Leitura de Placas** | Pedágios e Estacionamentos | Identifica números e letras de veículos por câmera |
+| **Busca Visual** | Google Lens | Identifica objetos e plantas através de fotos |
